@@ -11,6 +11,7 @@ int? n;
         break;
       }
     }
+   
     if (flag == 0) {
     n=a[i];
     }
